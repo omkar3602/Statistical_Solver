@@ -1,0 +1,6 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "files.associations": {
+        "math.h": "c"
+    }
+}
